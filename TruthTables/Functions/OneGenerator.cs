@@ -1,12 +1,11 @@
 ﻿namespace TruthTables
 {
-    class F5 : TableResult
+    class OneGenerator : TableResult
     {
         protected override void SetResult(bool x, bool y)
         {
-            result = (!x & y);
+            result = true;
         }
-
         public override bool GetTable(bool x, bool y)
         {
             SetResult(x, y);

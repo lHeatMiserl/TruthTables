@@ -1,11 +1,12 @@
 ﻿namespace TruthTables
 {
-    class F16 : TableResult
+    class Equivalence : TableResult
     {
         protected override void SetResult(bool x, bool y)
         {
-            result = true;
+            result = ((x & y) || (!x & !y));
         }
+
         public override bool GetTable(bool x, bool y)
         {
             SetResult(x, y);

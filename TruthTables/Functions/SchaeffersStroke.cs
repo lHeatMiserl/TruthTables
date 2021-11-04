@@ -1,10 +1,10 @@
 ﻿namespace TruthTables
 {
-    class F6 : TableResult
+    class SchaeffersStroke : TableResult
     {
         protected override void SetResult(bool x, bool y)
         {
-            result = (y);
+            result = (!(x & y));
         }
 
         public override bool GetTable(bool x, bool y)

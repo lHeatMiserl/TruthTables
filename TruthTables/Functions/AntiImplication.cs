@@ -1,10 +1,10 @@
 ﻿namespace TruthTables
 {
-    class F13 : TableResult
+    class AntiImplication : TableResult
     {
         protected override void SetResult(bool x, bool y)
         {
-            result = (!x);
+            result = (x & !y);
         }
 
         public override bool GetTable(bool x, bool y)

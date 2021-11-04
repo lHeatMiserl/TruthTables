@@ -1,10 +1,10 @@
 ﻿namespace TruthTables
 {
-    class F11 : TableResult
+    class ExclusiveOr : TableResult
     {
         protected override void SetResult(bool x, bool y)
         {
-            result = (!y);
+            result = ((!x & y) || (x & !y));
         }
 
         public override bool GetTable(bool x, bool y)

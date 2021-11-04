@@ -1,10 +1,10 @@
 ﻿namespace TruthTables
 {
-    class F8 : TableResult
+    class PierFunction : TableResult
     {
         protected override void SetResult(bool x, bool y)
         {
-            result = (x || y);
+            result = (!(x || y));
         }
 
         public override bool GetTable(bool x, bool y)

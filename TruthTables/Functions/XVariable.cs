@@ -1,10 +1,10 @@
 ﻿namespace TruthTables
 {
-    class F9 : TableResult
+    class XVariable : TableResult
     {
         protected override void SetResult(bool x, bool y)
         {
-            result = (!(x || y));
+            result = (x);
         }
 
         public override bool GetTable(bool x, bool y)
