@@ -1,0 +1,14 @@
+C:\Users\Andrey\Desktop\Tables\TruthTables\bin\Debug\netcoreapp3.1\TruthTables.exe
+C:\Users\Andrey\Desktop\Tables\TruthTables\bin\Debug\netcoreapp3.1\TruthTables.deps.json
+C:\Users\Andrey\Desktop\Tables\TruthTables\bin\Debug\netcoreapp3.1\TruthTables.runtimeconfig.json
+C:\Users\Andrey\Desktop\Tables\TruthTables\bin\Debug\netcoreapp3.1\TruthTables.runtimeconfig.dev.json
+C:\Users\Andrey\Desktop\Tables\TruthTables\bin\Debug\netcoreapp3.1\TruthTables.dll
+C:\Users\Andrey\Desktop\Tables\TruthTables\bin\Debug\netcoreapp3.1\TruthTables.pdb
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.dll
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.pdb
+C:\Users\Andrey\Desktop\Tables\TruthTables\obj\Debug\netcoreapp3.1\TruthTables.genruntimeconfig.cache

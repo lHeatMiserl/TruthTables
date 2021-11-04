@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruthTables", "TruthTables.csproj", "{D994598A-E870-4D69-B3EF-720012AD681C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D994598A-E870-4D69-B3EF-720012AD681C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D994598A-E870-4D69-B3EF-720012AD681C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D994598A-E870-4D69-B3EF-720012AD681C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D994598A-E870-4D69-B3EF-720012AD681C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5827CCF0-2C16-4767-B078-371A33DEC226}
+	EndGlobalSection
+EndGlobal
